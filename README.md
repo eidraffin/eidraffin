@@ -30,4 +30,7 @@ I’m a 3rd-year Computer Science student at [Brac University](https://www.bracu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
-Feel free to connect with me!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eidraffin&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="eidraffin" />
+</p>
+
