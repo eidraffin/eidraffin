@@ -43,6 +43,7 @@ I’m driven to stay at the forefront of technology. I have a deep interest in o
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Mint" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg" alt="Fedora" width="40" height="40"/>
 </p>
 
 ---
