@@ -1,6 +1,6 @@
-<h1 align="center">Hello there...</h1>
+<h1>Hello there...</h1>
 
-<p align="center">
+<p>
   <em> I'm a 3rd-Year Computer Science Student at <a href="https://www.bracu.ac.bd/">Brac University</a></em>
 </p>
 
