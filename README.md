@@ -6,8 +6,9 @@
 
 ---
 
-## 🚀 About Me
-Currently Exploring
+## 🪪 About Me
+
+I’m passionate about staying at the forefront of technology. I have a deep interest in operating systems, and I’m currently focused on:
 
 - 🖥️ Backend Development
 - 🔐 Cybersecurity
