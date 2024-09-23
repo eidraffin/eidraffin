@@ -1,7 +1,7 @@
 <h1>Hello there...</h1>
 
 <p>
-  <em> I'm a 3rd-Year Computer Science Student at <a href="https://www.bracu.ac.bd/">Brac University</a></em>
+  <em>I'm a third-year Computer Science student at <a href="https://www.bracu.ac.bd/">Brac University</a></em>
 </p>
 
 ---
