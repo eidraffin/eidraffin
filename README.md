@@ -1,11 +1,19 @@
-# Hello there...
+<h1 align="center">Hello there...</h1>
 
-I’m a 3rd-year Computer Science student at [Brac University](https://www.bracu.ac.bd/).
+<p align="center">
+  <em> I'm a 3rd-Year Computer Science Student at <a href="https://www.bracu.ac.bd/">Brac University</a></em>
+</p>
 
-## Currently Exploring
-- Backend Development
-- Cybersecurity
-- Machine Learning
+---
+
+## 🚀 About Me
+Currently Exploring
+
+- 🖥️ Backend Development
+- 🔐 Cybersecurity
+- 🤖 Machine Learning
+
+---
 
 ## 🛠️ Tools & Technologies
 <p>
@@ -32,7 +40,35 @@ I’m a 3rd-year Computer Science student at [Brac University](https://www.bracu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
+---
+## 📊
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eidraffin&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="eidraffin" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eidraffin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/eidraffin" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/eidraffin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/eidraffin" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://www.reddit.com/user/eidraffin/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/1024px-Reddit_Logo_Icon.svg.png" alt="Reddit" width="40" height="40"/>
+  </a>
+  <a href="https://mastodon.social/@eidraffin" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="Mastodon" width="40" height="40"/>
+  </a>
 </p>
 
