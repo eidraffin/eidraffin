@@ -40,13 +40,12 @@ I’m driven to stay at the forefront of technology. I have a deep interest in o
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
-  <img src="https://https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Mint" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Mint" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="40" height="40"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali" width="40" height="40"/>
 </p>
 
 ---
-## 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eidraffin&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="eidraffin" />
