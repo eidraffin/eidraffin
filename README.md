@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eidraffin&label=Profile%20views&color=0e75b6&style=flat" alt="eidraffin" /> </p>
+
 <h3>Hello there! I'm Eidraffin, a third-year Computer Science student at <a href="https://www.bracu.ac.bd/">Brac University</a>, currently focusing on Backend Development and Machine Learning.</h3>
 
 ---
