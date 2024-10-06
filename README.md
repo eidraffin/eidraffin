@@ -1,11 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eidraffin&label=Profile%20views&color=0e75b6&style=flat" alt="eidraffin" /> </p>
 
-<h3>Hello there! I'm Eidraffin, a third-year Computer Science student at <a href="https://www.bracu.ac.bd/">Brac University</a>, currently focusing on Backend Development and Machine Learning.</h3>
+<h3>Hello there! I'm Eidraffin, a third-year Computer Science student at Brac University, currently focusing on Backend Development and Machine Learning.</h3>
 
 ---
 
 <h3 align="center">Technologies I've Worked With</h3>
-
 <p align="center">            
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
@@ -38,10 +37,30 @@
   <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=flat" />
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=flat" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat" />
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eidraffin&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="eidraffin" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eidraffin&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="eidraffin" />
+</p>
+
+---
+
+<h3 align="center">Find Me On</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eidraffin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a>
+  <a href="https://leetcode.com/eidraffin"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-F9C24E?logo=leetcode&logoColor=white&style=flat" /></a>
+  <a href="https://twitter.com/eidraffin"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat" /></a>
+  <a href="https://www.reddit.com/user/eidraffin"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=flat" /></a>
+  <a href="https://www.facebook.com/eidraffin"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat" /></a>
+  <a href="https://www.instagram.com/eidraffin"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?logo=instagram&logoColor=white&style=flat" /></a>
+  <a href="https://mastodon.social/@eidraffin"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-8B9DC3?logo=mastodon&logoColor=white&style=flat" /></a>
+  <a href="https://eidraffin.substack.com"><img alt="Substack" src="https://img.shields.io/badge/Substack-5A67D8?logo=substack&logoColor=white&style=flat" /></a>
+  <a href="https://www.youtube.com/@eidraffin"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" /></a>
+  <a href="https://www.twitch.tv/eidraffin"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=flat" /></a>
+  <a href="https://dev.to/eidraffin"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0E14?logo=dev.to&logoColor=white&style=flat" /></a>
+  <a href="https://www.bugcrowd.com/eidraffin"><img alt="Bugcrowd" src="https://img.shields.io/badge/Bugcrowd-4A90E2?logo=bugcrowd&logoColor=white&style=flat" /></a>
+  <a href="https://medium.com/@eidraffin"><img alt="Medium" src="https://img.shields.io/badge/Medium-00AB6C?logo=medium&logoColor=white&style=flat" /></a>
 </p>
